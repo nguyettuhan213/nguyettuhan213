@@ -1,7 +1,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Nguyen Hong Hanh**, a Software Developer with a background in **EdTech and enterprise application development**, currently expanding my expertise in **Generative AI and AI Engineering**.
+Hi! I'm **Nguyen Hong Hanh**, a Software Developer with a background in **EdTech and enterprise application development**, currently expanding my expertise in **Generative AI Engineering**.
 
 My journey started with an interest in **education and technology**, which led me to software development and enterprise automation. Through my experience building business applications, I became increasingly interested in how AI can be applied to solve real-world problems.
 
