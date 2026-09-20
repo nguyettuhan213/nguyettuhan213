@@ -9,7 +9,7 @@ Currently, I'm:
 
 * 👩‍💻 Building on my software development experience through hands-on projects.
 * 🤖 Developing my knowledge of **Generative AI, Large Language Models, and AI applications**.
-* 🎓 Pursuing a **Specialized Engineering Program in Generative AI** at Hanoi University of Science and Technology.
+* 🎓 Pursuing a **Generative AI Engineer** at Hanoi University of Science and Technology.
 * 📚 Learning through university coursework, professional certifications, and hands-on experimentation.
 * 🔍 Interested in understanding AI systems both from a practical application and technical perspective.
 
